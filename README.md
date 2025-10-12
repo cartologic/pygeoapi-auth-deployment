@@ -233,7 +233,7 @@ All bugs, enhancements and issues are managed on [GitHub](https://github.com/car
 ## Contact
 
 * [Tom Kralidis](https://github.com/tomkralidis)
-* [Youssef Harby](https://github.com/Youssef-Harby)
+* [Youssef Harby](https://github.com/yharby)
 
 
 ## 📝 License
